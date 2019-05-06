@@ -1,4 +1,4 @@
-![design](/design.png)
+![design](/music.png)
 
 #### Contents
 
