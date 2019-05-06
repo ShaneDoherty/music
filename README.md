@@ -1,4 +1,4 @@
-![design](/music.png)
+![music](/music.jpg)
 
 - [Spotify](https://open.spotify.com/browse/featured)
 - [SoundCloud](https://soundcloud.com/stream)
