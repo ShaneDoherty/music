@@ -2,6 +2,9 @@
 
 #### Contents
 
+- [Spotify](https://open.spotify.com/browse/featured)
+- [SoundCloud](https://soundcloud.com/stream)
+
 **Talk**
 
 - [Radio X](https://www.radiox.co.uk/)
@@ -19,5 +22,7 @@
 - [Radio 1 Essential Mix](https://www.bbc.co.uk/programmes/b006wkfp)
 - [Pete Tong](https://www.bbc.co.uk/programmes/b006ww0v)
 
-**Underground Radio**
-
+**Indie Radio**
+- [Red Light Radio](http://redlightradio.net/) Amsterdam’s Red Light District
+- [NTS](https://www.nts.live/) London, Manchester, LA
+- [DI.FM](https://www.di.fm/)
