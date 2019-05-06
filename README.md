@@ -1,9 +1,8 @@
 ![design](/music.png)
 
-#### Contents
-
 - [Spotify](https://open.spotify.com/browse/featured)
 - [SoundCloud](https://soundcloud.com/stream)
+
 
 **Talk**
 
@@ -11,6 +10,7 @@
 - [LBC](https://www.lbc.co.uk/) James O'Brien
 - [BBC Sounds](https://www.bbc.co.uk/sounds)
 - [BBC Talkback](https://www.bbc.co.uk/programmes/b007cpt4)
+
 
 **BBC Music**
 
@@ -21,6 +21,7 @@
 - [Annie Nightingale presents...](https://www.bbc.co.uk/programmes/b006wkp7)
 - [Radio 1 Essential Mix](https://www.bbc.co.uk/programmes/b006wkfp)
 - [Pete Tong](https://www.bbc.co.uk/programmes/b006ww0v)
+
 
 **Indie Radio**
 - [Red Light Radio](http://redlightradio.net/) Amsterdam’s Red Light District
