@@ -2,6 +2,7 @@
 
 - [Spotify](https://open.spotify.com/browse/featured)
 - [SoundCloud](https://soundcloud.com/stream)
+- [Beatport](https://www.beatport.com/)
 
 
 **Talk**
@@ -27,3 +28,7 @@
 - [Red Light Radio](http://redlightradio.net/) Amsterdam’s Red Light District
 - [NTS](https://www.nts.live/) London, Manchester, LA
 - [DI.FM](https://www.di.fm/)
+
+**Live DJ Sets**
+- [MixCloud](https://www.mixcloud.com/discover/live-dj-set/)
+- [Global Sets](http://www.global-sets.com/)
