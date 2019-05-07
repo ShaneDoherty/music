@@ -2,6 +2,7 @@
 
 - [Spotify](https://open.spotify.com/browse/featured)
 - [SoundCloud](https://soundcloud.com/stream)
+- [MixCloud](https://www.mixcloud.com/)
 - [Beatport](https://www.beatport.com/)
 
 
@@ -32,3 +33,5 @@
 **Live DJ Sets**
 - [MixCloud](https://www.mixcloud.com/discover/live-dj-set/)
 - [Global Sets](http://www.global-sets.com/)
+- [Electronic Dance](https://electronic-dance.net/)
+- [Mixing DJ](https://mixing.dj/livesets/livesets/)
