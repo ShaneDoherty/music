@@ -15,12 +15,12 @@
 
 - [Radio X](https://www.radiox.co.uk/)
 - [LBC](https://www.lbc.co.uk/) James O'Brien
-- [BBC Sounds](https://www.bbc.co.uk/sounds)
 - [BBC Talkback](https://www.bbc.co.uk/programmes/b007cpt4)
 
 
 **BBC Music**
 
+- [BBC Sounds](https://www.bbc.co.uk/sounds)
 - [Gilles Peterson](https://www.bbc.co.uk/programmes/b01fm4ss)
 - [6 Music](https://www.bbc.co.uk/6music) Up & Coming bands
 - [BBC Electronic Music](https://www.bbc.co.uk/sounds/categories/music-danceandelectronica?sort=popular)
