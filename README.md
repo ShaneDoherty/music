@@ -5,6 +5,11 @@
 - [MixCloud](https://www.mixcloud.com/)
 - [Beatport](https://www.beatport.com/)
 
+**Magazines**
+- [Mixmag](https://mixmag.net/)
+- [DJ Mag](https://djmag.com/)
+- [Guardian Music](https://www.theguardian.com/music)
+
 
 **Talk**
 
