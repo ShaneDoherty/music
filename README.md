@@ -43,4 +43,4 @@
 
 **Old Mixmag CDs**
 - [Discogs](https://www.discogs.com/label/268-Mixmag?sort=year&sort_order=)
-- [Yousef - 2001: A House Odyssey](https://www.youtube.com/watch?v=cYl2r1Da-z8)
+- [Yousef - 2001: A House Odyssey](https://www.youtube.com/watch?v=kv5WpS7ge8k)
