@@ -40,3 +40,7 @@
 - [Global Sets](http://www.global-sets.com/)
 - [Electronic Dance](https://electronic-dance.net/)
 - [Mixing DJ](https://mixing.dj/livesets/livesets/)
+
+**Old Mixmag CDs**
+- [Discogs](https://www.discogs.com/label/268-Mixmag?sort=year&sort_order=)
+- [Yousef - 2001: A House Odyssey](https://www.youtube.com/watch?v=cYl2r1Da-z8)
