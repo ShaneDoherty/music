@@ -44,3 +44,7 @@
 **Old Mixmag CDs**
 - [Discogs](https://www.discogs.com/label/268-Mixmag?sort=year&sort_order=)
 - [Yousef - 2001: A House Odyssey](https://www.youtube.com/watch?v=kv5WpS7ge8k)
+
+**Classic Essential Mixes**
+- [Scott Bond 2000](https://drive.google.com/open?id=0B3wlSC8LRwufWHJ4dmpNbEtXVTA)
+- [Paul Oakenfold 1999 Rojam, Shanghai](https://drive.google.com/open?id=0B3wlSC8LRwufMUpNZjl3SnBfUTA)
