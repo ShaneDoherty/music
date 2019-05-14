@@ -43,8 +43,9 @@
 
 **Old Mixmag CDs**
 - [Discogs](https://www.discogs.com/label/268-Mixmag?sort=year&sort_order=)
-- [Roger Sanchez - The Global House Experience](https://www.youtube.com/watch?v=tQ6HKgodBnQ)
-- [Yousef - 2001: A House Odyssey](https://www.youtube.com/watch?v=kv5WpS7ge8k)
+- [Roger Sanchez - The Global House Experience 2000](https://www.youtube.com/watch?v=tQ6HKgodBnQ)
+- [Jon Sa Trincha - Naked Ibiza The Salinas Beach Mix 2000](https://soundcloud.com/jon-sa-trinxa/jon-sa-trincha-naked-ibiza-the-salinas-beach-mix)
+- [Yousef - A House Odyssey 2001](https://www.youtube.com/watch?v=kv5WpS7ge8k)
 
 **Classic Essential Mixes**
 - [Scott Bond 2000](https://drive.google.com/open?id=0B3wlSC8LRwufWHJ4dmpNbEtXVTA)
