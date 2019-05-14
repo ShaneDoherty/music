@@ -43,6 +43,7 @@
 
 **Old Mixmag CDs**
 - [Discogs](https://www.discogs.com/label/268-Mixmag?sort=year&sort_order=)
+- [Roger Sanchez - The Global House Experience](https://www.youtube.com/watch?v=tQ6HKgodBnQ)
 - [Yousef - 2001: A House Odyssey](https://www.youtube.com/watch?v=kv5WpS7ge8k)
 
 **Classic Essential Mixes**
