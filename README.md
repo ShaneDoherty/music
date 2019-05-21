@@ -51,7 +51,7 @@
 
 **Classic Essential Mixes**
 - [Scott Bond 2000](https://soundcloud.com/sajfa/scott-bond-essential-mix-2000)
-- [Paul Oakenfold 1999 Rojam, Shanghai](https://drive.google.com/open?id=0B3wlSC8LRwufMUpNZjl3SnBfUTA)
+- [Paul Oakenfold 1999 Rojam, Shanghai](https://soundcloud.com/rave_on/paul-oakenfold-live-rojam-shanghai-essential-mix-22-26091999)
 
 **Old CDs**
 - [Euphoria 1998 CD1](https://www.youtube.com/watch?v=7Uxn9ESv9Rg)
