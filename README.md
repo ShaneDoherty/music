@@ -47,9 +47,10 @@
 - [Roger Sanchez - The Global House Experience 2000](https://www.youtube.com/watch?v=tQ6HKgodBnQ)
 - [Jon Sa Trincha - Naked Ibiza The Salinas Beach Mix 2000](https://soundcloud.com/jon-sa-trinxa/jon-sa-trincha-naked-ibiza-the-salinas-beach-mix)
 - [Yousef - A House Odyssey 2001](https://www.youtube.com/watch?v=kv5WpS7ge8k)
+- (Sander Kleinenberg - Tranceglobal Airways)[https://soundcloud.com/historyofhappyhardcore/mixmag-tranceglobal-airways-sander-kleinenberg]
 
 **Classic Essential Mixes**
-- [Scott Bond 2000](https://drive.google.com/open?id=0B3wlSC8LRwufWHJ4dmpNbEtXVTA)
+- [Scott Bond 2000](https://soundcloud.com/sajfa/scott-bond-essential-mix-2000)
 - [Paul Oakenfold 1999 Rojam, Shanghai](https://drive.google.com/open?id=0B3wlSC8LRwufMUpNZjl3SnBfUTA)
 
 **Old CDs**
